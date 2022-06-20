@@ -2,11 +2,11 @@
 <!-- this is comment -->
 <p>
 <h1 align="center"> Wazzup there 👋, I'm Bart
-  <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/BongoCatRengar.png" width="50%"/>
+  <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/BongoCatRengar1.png" width="50%"/>
 </h1>
 </p>
 
-<img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/BongoCatRengar.png" width="50%" align='right'/>
+<img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/BongoCatRengar1.png" width="50%" align='right'/>
 
 <p>
 <h3>About me:</h3> 
