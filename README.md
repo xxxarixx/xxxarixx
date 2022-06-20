@@ -30,6 +30,7 @@ First commercial product that hopefully be realeased on steam.
   <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/csharp.svg" height="40px" style="vertical-align:top margin:6px 4px" />
   <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/gamedev.svg" height="40px" style="vertical-align:top margin:6px 4px" />
   <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/unity.svg" height="40px" style="vertical-align:top margin:6px 4px"/>
+  <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/Visual_Studio_Icon_2019.svg" height="40px" style="vertical-align:top margin:6px 4px"/>
 </p>
 
 
