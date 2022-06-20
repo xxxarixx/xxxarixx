@@ -1,11 +1,18 @@
 ### 
-
 <!-- this is comment -->
 <p>
-<h1 align="center"> Wazzup there 👋, I'm Bart </h1>
+<h1 align="center"> Wazzup there 👋, I'm Bart
+  <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/BongoCatRengar.png" width="50%"/>
+</h1>
 </p>
 
 <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/BongoCatRengar.png" width="50%" align='right'/>
+
+<p>
+<h3>About me:</h3> 
+I am indie game developer.
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+</p>
 
 <p>
 <h3>I'm currently working on:</h3> 
@@ -47,6 +54,17 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
                                                                                                                            
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=xxxarixx&show_icons=true&hide_border=true&count_private=true&icon_color=28394F&text_color=28394F&title_color=EC6F7B&bg_color=FFFFFF" alt="IndieMoose's GitHub Stats">
+<p>
 <h3> Contact: </h3>
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+</p>
+<p>
+<h3> submit: </h3>
+<a href="https://github.com/xxxarixx">                           
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=xxxarixx&show_icons=true&hide_border=true&count_private=true&icon_color=28394F&text_color=28394F&title_color=EC6F7B&bg_color=FFFFFF&card_width =50%" alt="IndieMoose's GitHub Stats">
+</a>
+<a href="https://github.com/xxxarixx">   
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxarixx&langs_count=8&card_width =50%)](https://github.com/anuraghazra/github-readme-stats">
+</a>
+</p>                                                                                                                       
+
