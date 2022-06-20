@@ -3,9 +3,9 @@
 <!-- this is comment -->
 <p>
   
-<h2 align="center"> Wazzup there 👋, I'm Bart 
+<h1 align="center"> Wazzup there 👋, I'm Bart 
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" />
-</h2>
+</h1>
 </p>
 
 
@@ -17,6 +17,6 @@ Sed dapibus nulla varius, rutrum lectus ut, ornare elit. Lorem ipsum dolor sit a
 
 Curabitur in lacinia leo. Nunc luctus ipsum convallis arcu dignissim aliquet id eu enim. Nullam lorem neque, dictum eu diam quis, dapibus dapibus ipsum. Praesent scelerisque sodales vehicula. Aliquam molestie nisl vel urna blandit pretium. Quisque sit amet sapien et orci varius scelerisque quis at ante. Mauris congue sapien volutpat nisi auctor aliquam. Phasellus aliquet libero a porta facilisis. Vestibulum lacinia malesuada justo ut sollicitudin. In auctor, ante vitae accumsan aliquet, felis libero dictum magna, vitae condimentum ipsum ex auctor erat. Nunc orci augue, lacinia id blandit nec, tempus et nulla. Vivamus scelerisque mauris sagittis tortor dapibus congue. Nunc et turpis vestibulum, consectetur sapien quis, porta eros.
 
-Nam sit amet massa augue. Etiam congue vulputate dolor, et vehicula ex mattis a. Maecenas augue ipsum, dictum molestie faucibus quis, imperdiet a tellus. Nulla eu vulputate leo, et rhoncus augue. Curabitur quam lorem, rhoncus id pharetra non, vehicula accumsan justo. Morbi nec bibendum ante. Vivamus rutrum lacus et diam ultricies, eu viverra felis maximus. Integer eleifend nulla cursus sapien facilisis ultricies. Suspendisse non euismod diam. Duis ut magna sapien. Curabitur et felis et nulla pretium hendrerit. Nam eget sapien vel lacus auctor dictum. Praesent facilisis enim nec diam egestas blandit. Integer a purus nec dolor aliquet fringilla a id ante. Suspendisse potenti.
+Nam sit amet massa augue. Etiam congue vulputate dolor, et vehicula ex mattis a. Maecenas augue ipsum, dictum molestie faucibus quis, imperdiet a tellus. Nulla eu vulputate leo, et rhoncus augue. Curabitur quam lorem, rhoncus id pharetra non, vehicula accumsan justo. Morbi nec bibendum ante. Vivamus rutrum lacus et diam ultricies, eu viverra felis maximus. Integer eleifend nulla cursus sapien facilisis ultricies. Suspendisse non euismod diam. Duis ut magna sapien. Curabitur et felis et nulla pretium hendrerit. Nam eget sapien vel lacus auctor dictum. Praesent facilisis enim nec diam egestas blandit. Integer a purus nec dolor aliquet fringilla a id ante.
 <img src="https://github-readme-stats.vercel.app/api?username=xxxarixx&show_icons=true&hide_border=true&count_private=true&icon_color=F5E8EC&text_color=F5E8EC&title_color=EC6F7B&bg_color=353540" alt="IndieMoose's GitHub Stats">
 <h3> Contact: </h3>
