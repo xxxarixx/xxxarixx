@@ -2,7 +2,7 @@
 <!-- this is comment -->
 <p>
    <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/Banner.jpg" width="100%"/>
-<h1 align="center"> Wazzup there 👋, I'm Bart
+<h1 align="center"> Wazzup there <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/wave.gif" width = 5% />, I'm Bart
  
 </h1>
 </p>
@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/BongoCatRengar.gif" width="50%" align='right'/>
 
 <p>
-<h3>About me:</h3> 
+<h3>About me:  <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/id.gif" width = 5% /> </h3> 
 I' am indie game developer that constantly learning something new about game development, 
 I love Tea,Cats and of course video games.
 Fun fact about me: In free time i like to play fabular video games, digital draw, calistenics and watch movies.
@@ -33,22 +33,23 @@ Fun fact about me: In free time i like to play fabular video games, digital draw
 <p>
 <h3>I'm currently learning:</h3> 
 <ul>
-   <li>Unity 3D, IK</li>
+   <li><img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/unity.png" width = 4% />Unity 3D,</li> 
+   <li><img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/IK.gif" width = 4% />IK,</li>
 </ul>
 </p>
 
 <p>
-<h3>I'm looking forward to learn:</h3> 
+<h3>I'm looking forward to learn: <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/goal.gif" width = 5% /></h3> 
 <ul>
-   <li>HLSL (unity shader programming lanugage)</li>
-   <li>Unreal engine 5</li>
-   <li>C++ on affordable skill level</li>
+   <li><img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/Hlsl.png" width = 8% />HLSL (unity shader programming lanugage)</li>
+   <li><img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/unreal engine logo.png" width = 5% />Unreal engine 5</li>
+   <li><img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/Cpp_Logo.png" width = 4% />C++ on affordable skill level</li>
 </ul>
 </p>
 
 
 <p>
-<h3>I'm currently looking for job as:</h3> 
+<h3>I'm currently looking for job as: <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/briefcase.gif" width = 5% /></h3> 
 <ul>
    <li>Game programmer in C# programming lanugage</li>
 </ul>
@@ -65,7 +66,7 @@ Fun fact about me: In free time i like to play fabular video games, digital draw
 </p>
 
 <p>
-<h3>My experience:</h3> 
+<h3>My experience: <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/award.gif" width = 5% /></h3> 
 self improve:
 <ul>
    <li>3y of constant learning about Unity and C# </li>
@@ -75,7 +76,7 @@ self improve:
 </p>
                                                                                                                  
 <br>
-<h3> Intrested about me? Contact me now! </h3>
+<h3> Intrested about me? Contact me now!<img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/message.gif" width = 5% /> </h3>
 <p>Email: mooseindie@gmail.com</p>
 </br>
 
