@@ -1,8 +1,9 @@
 ### 
 <!-- this is comment -->
 <p>
+   <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/Banner.jpg" width="100%"/>
 <h1 align="center"> Wazzup there 👋, I'm Bart
-  <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/BongoCatRengar1.png" width="50%"/>
+ 
 </h1>
 </p>
 
