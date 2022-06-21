@@ -11,28 +11,47 @@
 
 <p>
 <h3>About me:</h3> 
-I am indie game developer.
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+I' am indie game developer that constantly learning something new about game development, 
+I love Tea,Cats and of course video games.
+Fun fact about me: In free time i like to play fabular video games, digital draw, calistenics and watch movies.
 </p>
 
 <p>
 <h3>I'm currently working on:</h3> 
-First commercial product that hopefully be realeased on steam.
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+<ul>
+<li>
+   First commercial product that hopefully be realeased on steam.
+   Game is Tower defence, Roguelike genre with pixel art art style.
+   Game is made using Unity and C#.
+</li>
+<li>
+   Third person controller inspired by "Shadow of the tomb rider" game.
+</li>
 </p>
 
 
 <p>
 <h3>I'm currently learning:</h3> 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+<ul>
+   <li>Unity 3D, IK</li>
+</ul>
+</p>
+
+<p>
+<h3>I'm looking forward to learn:</h3> 
+<ul>
+   <li>HLSL (unity shader programming lanugage)</li>
+   <li>Unreal engine 5</li>
+   <li>C++ on affordable skill level</li>
+</ul>
 </p>
 
 
 <p>
 <h3>I'm currently looking for job as:</h3> 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+<ul>
+   <li>Game programmer in C# programming lanugage</li>
+</ul>
 </p>
 
 
@@ -46,21 +65,25 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
   <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/unity.svg" height="40px"/>
   <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/unity.svg" height="40px" />
   <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/unity.svg" height="40px"/>
-  <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/Visual_Studio_Icon_2019.svg" height="40px"/>
 </p>
 
 <p>
 <h3>My experience:</h3> 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-                                                                                                                           
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+self improve:
+<ul>
+   <li>3y of constant learning about Unity and C# </li>
+   <li>2y of learning Aseprite</li>
+   <li>1y of learning Krita</li>
+</ul>
 </p>
+                                                                                                                 
 <p>
-<h3> Contact: </h3>
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+<h3> Intrested about me? Contact me now! </h3>
+<p>Email: mooseindie@gmail.com</p>
 </p>
+                                                                                                                 
 <p>
-<h3> submit: </h3>
+<h3> Github summary: </h3>
 <a href="https://github.com/xxxarixx">                           
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=xxxarixx&show_icons=true&hide_border=true&count_private=true&icon_color=28394F&text_color=28394F&title_color=EC6F7B&bg_color=FFFFFF&card_width =50%" alt="IndieMoose's GitHub Stats">
 </a>
