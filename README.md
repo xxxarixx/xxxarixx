@@ -58,13 +58,10 @@ Fun fact about me: In free time i like to play fabular video games, digital draw
 
 <h3>Tools,Languages,Frameworks:</h3> 
 <p width = 49% align='left'>
-  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/csharp.svg" height="40px"/>
-  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/gamedev.svg" height="40px />
-  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/unity.svg" height="40px"/>
-  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/unity.svg" height="40px"/>
-  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/unity.svg" height="40px"/>
-  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/unity.svg" height="40px" />
-  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/unity.svg" height="40px"/>
+  <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/Git_Icon_Unity.gif" height="40px"/>
+  <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/Git_Icon_CSharp.gif" height="40px"/>
+  <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/Git_Icon_Aseprite.gif" height="40px"/>
+  <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/Git_Icon_Krita.gif" height="40px"/>
 </p>
 
 <p>
@@ -77,18 +74,37 @@ self improve:
 </ul>
 </p>
                                                                                                                  
-<p>
+<br>
 <h3> Intrested about me? Contact me now! </h3>
 <p>Email: mooseindie@gmail.com</p>
-</p>
-                                                                                                                 
-<p>
+</br>
+
+
+
+<br>
 <h3> Github summary: </h3>
-<a href="https://github.com/xxxarixx">                           
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=xxxarixx&show_icons=true&hide_border=true&count_private=true&icon_color=28394F&text_color=28394F&title_color=EC6F7B&bg_color=FFFFFF&card_width =50%" alt="IndieMoose's GitHub Stats">
+
+<a href="https://github.com/xxxarixx" width = 50%>                           
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=xxxarixx&show_icons=true&hide_border=true&count_private=true&icon_color=28394F&text_color=28394F&title_color=EC6F7B&bg_color=FFFFFF&card_width =100%" alt="IndieMoose's GitHub Stats">
 </a>
-<a href="https://github.com/xxxarixx">   
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxarixx&langs_count=8&card_width =50%)](https://github.com/anuraghazra/github-readme-stats">
+
+<a href="https://github.com/xxxarixx" width = 50%>   
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxarixx&langs_count=8&card_width =100%)](https://github.com/anuraghazra/github-readme-stats">
 </a>
-</p>                                                                                                                       
+</br>      
+
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
+
+<p align ="left" width = 100% height = 500px margin = 0px>
+   Credits:
+   <a style="font-size: 5px;" href="https://www.flaticon.com/free-animated-icons/user" title="user animated icons">
+   User animated icons created by Freepik - Flaticon
+   </a>
+   ,
+   
+</p>
 
