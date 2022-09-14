@@ -75,29 +75,9 @@ self improve:
 </ul>
 </p>
                                                                                                                  
-<br>
+<br />
 <h3> Intrested about me? Contact me now!<img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/message.gif" width = 5% /> </h3>
 <p>Email: mooseindie@gmail.com</p>
-</br>
-
-
-
-<br>
-<h3> Github summary: </h3>
-
-<a href="https://github.com/xxxarixx" width = 50%>                           
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=xxxarixx&show_icons=true&hide_border=true&count_private=true&icon_color=28394F&text_color=28394F&title_color=EC6F7B&bg_color=FFFFFF&card_width =100%" alt="IndieMoose's GitHub Stats">
-</a>
-
-<a href="https://github.com/xxxarixx" width = 50%>   
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxarixx&langs_count=8&card_width =100%)](https://github.com/anuraghazra/github-readme-stats">
-</a>
-</br>      
-
-<br></br>
-<br></br>
-<br></br>
-<br></br>
 
 
 <p align ="left" width = 100% height = 500px margin = 0px>
