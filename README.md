@@ -1,7 +1,7 @@
 ### 
 <!-- this is comment -->
 <p>
-   <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/Banner.jpg" width="100%"/>
+   <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/BannerNew.jpg" width="100%"/>
 <h1 align="center"> Wazzup there <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/wave.gif" width = 5% />, I'm Bart
  
 </h1>
