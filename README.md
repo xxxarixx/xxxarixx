@@ -20,12 +20,7 @@ Fun fact about me: In free time i like to play fabular video games, digital draw
 <h3>I'm currently working on:</h3> 
 <ul>
 <li>
-   First commercial product that hopefully be realeased on steam.
-   Game is Tower defence, Roguelike genre with pixel art art style.
-   Game is made using Unity and C#.
-</li>
-<li>
-   Third person controller inspired by "Shadow of the tomb rider" game.
+   First commercial product that will be upload to google store and app store. Game is builder-god clicker hybrid , set in pixel art fantasy world. You can move character and break resources and discover new lands and biomes and new ways to automatize own land and be king of the world.
 </li>
 </p>
 
@@ -33,8 +28,8 @@ Fun fact about me: In free time i like to play fabular video games, digital draw
 <p>
 <h3>I'm currently learning:</h3> 
 <ul>
-   <li><img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/unity.png" width = 4% />Unity 3D,</li> 
-   <li><img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/IK.gif" width = 4% />IK,</li>
+   <li>Unitask unity package,</li>
+   <li>Addressables unity package</li>
 </ul>
 </p>
 
