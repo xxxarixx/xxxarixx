@@ -66,7 +66,7 @@ self improve:
 <ul>
    <li>3y of constant learning about Unity and C# </li>
    <li>2y of learning Aseprite</li>
-   <li>1y of learning Krita</li>
+   <li>2y of learning Krita</li>
 </ul>
 </p>
                                                                                                                  
