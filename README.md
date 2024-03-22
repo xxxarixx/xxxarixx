@@ -10,13 +10,6 @@
 <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/BongoCatRengar.gif" width="50%" align='right'/>
 
 <p>
-<h3>About me:  <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/id.gif" width = 5% /> </h3> 
-I' am indie game developer that constantly learning something new about game development, 
-I love Tea,Cats and of course video games.
-Fun fact about me: In free time i like to play fabular video games, digital draw, calistenics and watch movies.
-</p>
-
-<p>
 <h3>I'm currently working on:</h3> 
 <ul>
 <li>
@@ -69,7 +62,12 @@ self improve:
    <li>2y of learning Krita</li>
 </ul>
 </p>
-                                                                                                                 
+<p>
+<h3>About me:  <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/id.gif" width = 5% /> </h3> 
+I' am indie game developer that constantly learning something new about game development, 
+I love Tea,Cats and of course video games.
+Fun fact about me: In free time i like to play fabular video games, digital draw, calistenics and watch movies.
+</p>                                                                                                                 
 <br />
 <h3> Intrested about me? Contact me now!<img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/message.gif" width = 5% /> </h3>
 <p>Email: mooseindie@gmail.com</p>
