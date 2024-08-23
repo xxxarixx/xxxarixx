@@ -9,29 +9,13 @@
 
 <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/BongoCatRengar.gif" width="50%" align='right'/>
 
-<p>
-<h3>I'm currently working on:</h3> 
-<ul>
-<li>
-   First commercial product that will be upload to google store and app store. Game is builder-god clicker hybrid , set in pixel art fantasy world. You can move character and break resources and discover new lands and biomes and new ways to automatize own land and be king of the world.
-</li>
-</p>
-
 
 <p>
 <h3>I'm currently learning:</h3> 
 <ul>
    <li>Unitask unity package,</li>
    <li>Addressables unity package</li>
-</ul>
-</p>
-
-<p>
-<h3>I'm looking forward to learn: <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/goal.gif" width = 5% /></h3> 
-<ul>
-   <li><img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/Hlsl.png" width = 8% />HLSL (unity shader programming lanugage)</li>
-   <li><img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/unreal engine logo.png" width = 5% />Unreal engine 5</li>
-   <li><img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/Cpp_Logo.png" width = 4% />C++ on affordable skill level</li>
+   <li>Zenject unity package</li>
 </ul>
 </p>
 
@@ -39,7 +23,7 @@
 <p>
 <h3>I'm currently looking for job as: <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/briefcase.gif" width = 5% /></h3> 
 <ul>
-   <li>Game programmer in C# programming lanugage</li>
+   <li>Game programmer in C# </li>
 </ul>
 </p>
 
@@ -59,7 +43,7 @@ self improve:
 <ul>
    <li>3y of constant learning about Unity and C# </li>
    <li>2y of learning Aseprite</li>
-   <li>2y of learning Krita</li>
+   <li>2y of learning Krita(photoshop alternative)</li>
 </ul>
 </p>
 <p>
