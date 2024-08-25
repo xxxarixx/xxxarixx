@@ -1,15 +1,51 @@
-### 
-<!-- this is comment -->
-<p>
-   <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/Banner.jpg" width="100%"/>
-<h1 align="center"> Wazzup there <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/wave.gif" width = 5% />, I'm Bart
- 
-</h1>
-</p>
+<h1 align="center"> Portfollio Summary </h1>
+<table>
+   <thead align="center">
+      <tr>
+        <!-- column 1 -->
+        <th width="333px">
+           <h3>2D portfollio:</h3>
+        </th>
+        <!-- column 2 -->
+        <th width="333px">
+           <h3>3D portfollio:</h3>
+        </th>
+         <th width="333px">
+           <h3>Procedular generation portfollio:</h3>
+        </th>
+      </tr>
+    </thead>
+ <tbody align="center">
+      <tr>
+        <!-- column 1 -->
+        <td width="333px">
+           <a href="https://youtu.be/JvNwje4xgsQ">
+              <img src="https://github.com/user-attachments/assets/f54aa598-b94a-4a51-ab8b-b9c0a17aac9f" alt="2D portfollio" />
+           </a>
+        </td>
+        <!-- column 2 -->
+        <td width="333px">
+          <a href="https://youtu.be/l8WpXVXMNMA">
+           <img src="https://github.com/user-attachments/assets/81368745-c4d4-4d5a-8de2-b3b711d572db" alt="3D portfollio" />
+         </a>
+        </td>
+         <td width="333px">
+          <a href="https://youtu.be/Tsm1uX_YIt4">
+           <img src="https://github.com/user-attachments/assets/d575c372-1227-44da-95fb-61567fa260d0" alt="Procedular generation portfollio" />
+         </a>
+        </td>
+      </tr>
+    </tbody>
+</table>
 
+<h3> 
+   Resourceful is nearly out! 
+   <img src="https://github.com/user-attachments/assets/4197aa62-2728-437d-8f83-012aef2e7660" alt="ResourceFul" width="10%" />
+</h3>
+<a href="">
+  <img src="https://github.com/user-attachments/assets/1f93b2cf-35dc-4ab6-aad8-23855674a99e" alt="ResourceFul" width="20%" />
+</a>
 <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/BongoCatRengar.gif" width="50%" align='right'/>
-
-
 <p>
 <h3>I'm currently learning:</h3> 
 <ul>
@@ -23,7 +59,8 @@
 <p>
 <h3>I'm currently looking for job as: <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/briefcase.gif" width = 5% /></h3> 
 <ul>
-   <li>Game programmer in C# </li>
+   <li>Game programmer/developer in C# </li>
+   <li>Unity programmer </li>
 </ul>
 </p>
 
@@ -45,14 +82,7 @@ self improve:
    <li>2y of learning Aseprite</li>
    <li>2y of learning Krita(photoshop alternative)</li>
 </ul>
-</p>
-<p>
-<h3>About me:  <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/id.gif" width = 5% /> </h3> 
-I' am indie game developer that constantly learning something new about game development, 
-I love Tea,Cats and of course video games.
-Fun fact about me: In free time i like to play fabular video games, digital draw, calistenics and watch movies.
 </p>                                                                                                                 
-<br />
 <h3> Intrested about me? Contact me now!<img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/message.gif" width = 5% /> </h3>
 <p>Email: mooseindie@gmail.com</p>
 
