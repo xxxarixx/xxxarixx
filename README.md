@@ -1,4 +1,4 @@
-<h1 align="center"> Portfollio Summary </h1>
+<h1 align="center"> Portfollio Summary YT Videos </h1>
 <table>
    <thead align="center">
       <tr>
@@ -11,7 +11,7 @@
            <h3>3D portfollio:</h3>
         </th>
          <th width="333px">
-           <h3>Procedular generation portfollio:</h3>
+           <h3>Procedular generations portfollio:</h3>
         </th>
       </tr>
     </thead>
