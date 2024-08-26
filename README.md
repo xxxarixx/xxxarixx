@@ -19,18 +19,18 @@
       <tr>
         <!-- column 1 -->
         <td width="333px">
-           <a href="https://youtu.be/JvNwje4xgsQ">
+           <a href="https://youtu.be/7Uetb3Zkf6I">
               <img src="https://github.com/user-attachments/assets/f54aa598-b94a-4a51-ab8b-b9c0a17aac9f" alt="2D portfollio" />
            </a>
         </td>
         <!-- column 2 -->
         <td width="333px">
-          <a href="https://youtu.be/l8WpXVXMNMA">
+          <a href="https://youtu.be/D_svc2xiB-E">
            <img src="https://github.com/user-attachments/assets/81368745-c4d4-4d5a-8de2-b3b711d572db" alt="3D portfollio" />
          </a>
         </td>
          <td width="333px">
-          <a href="https://youtu.be/Tsm1uX_YIt4">
+          <a href="https://youtu.be/hDMznDv1J8E">
            <img src="https://github.com/user-attachments/assets/d575c372-1227-44da-95fb-61567fa260d0" alt="Procedular generation portfollio" />
          </a>
         </td>
