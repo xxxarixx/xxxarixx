@@ -39,10 +39,11 @@
 </table>
 
 <h3> 
-   Resourceful is nearly out! 
+   
+   Resourceful OUT!!!!!
    <img src="https://github.com/user-attachments/assets/4197aa62-2728-437d-8f83-012aef2e7660" alt="ResourceFul" width="10%" />
 </h3>
-<a href="">
+<a href="https://play.google.com/store/apps/details?id=com.MooseAndMagick.Resourcable">
   <img src="https://github.com/user-attachments/assets/1f93b2cf-35dc-4ab6-aad8-23855674a99e" alt="ResourceFul" width="20%" />
 </a>
 <img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/BongoCatRengar.gif" width="50%" align='right'/>
