@@ -40,7 +40,7 @@
 
 <h3> 
    
-   Resourceful OUT!!!!!
+   Resourceful:Tap Clicker Game OUT!!!!!
    <img src="https://github.com/user-attachments/assets/4197aa62-2728-437d-8f83-012aef2e7660" alt="ResourceFul" width="10%" />
 </h3>
 <a href="https://play.google.com/store/apps/details?id=com.MooseAndMagick.Resourcable">
