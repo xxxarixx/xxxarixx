@@ -85,7 +85,7 @@ self improve:
 </ul>
 </p>                                                                                                                 
 <h3> Intrested about me? Contact me now!<img src="https://raw.githubusercontent.com/xxxarixx/xxxarixx/master/Resources/message.gif" width = 5% /> </h3>
-<p>Email: mooseindie@gmail.com</p>
+<p>Email: bartlomiej.gucwa0@gmail.com</p>
 
 
 <p align ="left" width = 100% height = 500px margin = 0px>
